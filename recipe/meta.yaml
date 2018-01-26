@@ -1,6 +1,6 @@
 {% set name = "jupyter_pivottablejs" %}
-{% set version = "0.8.0" %}
-{% set sha256 = "34721a8e9bc4cb384304bc924853b0fecaa0a6751aaefaa63cb1d89021f4b9ff" %}
+{% set version = "0.9.0" %}
+{% set sha256 = "9f0f9f692330f2f635dc37f05ad99da84646e4f3dbf9fe849cf6889de4b3210b" %}
 
 package:
   name: {{ name|lower }}
